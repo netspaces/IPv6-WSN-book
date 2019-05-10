@@ -1,4 +1,5 @@
-# IoT in 5 days: an easy guide to Wireless Sensor Networks (WSN), IPv6 and the Internet of Things (IoT)
+# https://github.com/alignan/IPv6-WSN-book
+#IoT in 5 days: an easy guide to Wireless Sensor Networks (WSN), IPv6 and the Internet of Things (IoT)
 
 This booklet is a quick but thoughtful guide to jump into the Internet of Things, covering important subjects as IPv6 networking, sensors, wireless protocols and technologies, as well as IoT cloud platforms and its most commonly used protocols, featuring lots of _hands-on_ examples to start working from day one.
 
