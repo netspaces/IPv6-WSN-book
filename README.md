@@ -1,23 +1,23 @@
 # https://github.com/alignan/IPv6-WSN-book
-#IoT in 5 days: an easy guide to Wireless Sensor Networks (WSN), IPv6 and the Internet of Things (IoT)
+#5天学物联网：无线传感器网络（WSN）、IPv6和物联网（IOT）的简单指南
 
-This booklet is a quick but thoughtful guide to jump into the Internet of Things, covering important subjects as IPv6 networking, sensors, wireless protocols and technologies, as well as IoT cloud platforms and its most commonly used protocols, featuring lots of _hands-on_ examples to start working from day one.
+这本书是一个快速但深思熟虑的入门指南，涵盖了重要的主题，如IPv6网络、传感器、无线协议与技术，以及物联网云平台及其最常用的协议，其中包含了许多基础开始工作的实践例子。
 
 The lessons and examples are heavily focused on Contiki OS, a well known IoT operating system well suited for low power embedded devices, and the Zolertia Z1 mote, a widely used hardware platform to develop a wide range of IoT applications.  The Raspberry Pi is used as well.
+课程和例子主要集中在Contiki OS（一种非常适合低功耗嵌入式设备的著名物联网操作系统）和Zolertia Z1 Mote（一种广泛用于开发物联网应用程序的硬件平台）上。也可以用于树莓派。
+## 涵盖主题:
 
-## Topics covered:
+-物联网简介。
+-IPv6简介。
+-6LOWPAN介绍。
+-Contiki OS、安装、结构和库。
+-模拟和数字传感器。
+-无线和射频基础。
+-多跳网络上的UDP和TCP。
+-MQTT，COAP和RESTFull协议。
+-端到端的IPv6应用程序：连接到物联网云平台
 
-- Introduction to IoT.
-- Introduction to IPv6.
-- Introduction to 6LoWPAN.
-- Contiki OS, installation, structure and libraries.
-- Analogue and digital sensors.
-- Wireless and RF basics.
-- UDP and TCP over multi-hop mesh networks.
-- MQTT, CoAP and RESTFull protocols.
-- End-to-end IPv6 applications: connecting to IoT cloud platforms
-
-## Releases
+## 发行版
 
 A first draft of this book was showcased, and heavily used, in the Workshop on Scientific Applications for the Internet of Things (IoT), hosted at the Abdus Salam International Centre of Theoretical Physics (ICTP), in Trieste, Italy, from 16 to 27 March 2015.  The commit of the PDF is available [Here](https://github.com/alignan/IPv6-WSN-book/commit/2de741e412ac11a9b39327385f37957b201c5124).
 
